@@ -1,1 +1,1 @@
-# Parcial2-Prog3
+Parcial 2 de Programación de Computadoras III
