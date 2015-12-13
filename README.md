@@ -5,8 +5,13 @@ Parcial 2
 **Tarifas de Taxi**
 
 Integrantes:
-*Abrego Rubben*
-*Kam Chu Ricardo*
-*Mirabal Moises*
-*Noriega Jeimy*
-*Samaniego Eliecer*
+
+**Abrego Rubben**
+
+**Kam Chu Ricardo**
+
+**Mirabal Moises**
+
+**Noriega Jeimy**
+
+**Samaniego Eliecer**
