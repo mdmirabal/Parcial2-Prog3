@@ -19,11 +19,11 @@ class Ventana(Screen):
 			if self.origen != "" and self.destino != "":
                                 costo = ""+Precio(self.origen,self.destino)
                                 if costo == "null":
-                                        self.precio.text ="Costo Aun no Disponible... porque vas de S a N o N a S. Proximamente."
+                                        self.precio.text ="No se puede determinar la tarifa para la ruta seleccionada."
                                 else:
-                                        self.precio.text = "El Costo del Viaje sera de $ "+costo	
+                                        self.precio.text = "El precio es de aproximadamente $"+costo	
 			else:
-				self.precio.text = "Aún no a Seleccionado las Ruta..."
+				self.precio.text = "POR FAVOR SELECCIONE UNA RUTA"
 
 class AplicacionApp(App): 
 	def build(self):  
